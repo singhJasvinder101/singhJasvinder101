@@ -47,6 +47,14 @@
 <br/>  
 
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=hsyntes&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/singhJasvinder101" target="_blank">
