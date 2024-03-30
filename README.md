@@ -1,6 +1,7 @@
 ### Hi, I am Jasvinder Singh
 
 - 🔭 I can make fully end to end websites with deployment with optimizations
+- 👩🏼‍💻 Let's connect for future opportunities [My Portfolio](https://jasvinder-portfolio.netlify.app/)
 - 🌱 I’m currently learning Machine Learning 
 - 👯 I’m quick learner and adaptable to new technologies
 - 💬 Open for the discussions on ideas of innovative projects capable of revolutionizing the world
@@ -59,7 +60,8 @@
 
 <br />
 
-![singhJasvinder101's Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhJasvinder101&theme=tokyonight&hide_border=false)  ![singhJasvinder101's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhJasvinder101&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+![singhJasvinder101's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhJasvinder101&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) 
+![singhJasvinder101's Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhJasvinder101&theme=tokyonight&hide_border=false)  
 
 
 
