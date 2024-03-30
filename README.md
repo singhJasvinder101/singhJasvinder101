@@ -1,6 +1,9 @@
 ### Hi, I am Jasvinder Singh
 
-### <div style="font-family: 'Roboto', sans-serif;">Full Stack MERN Developer with expertise in building robust and scalable web applications. Proficient in using React.js to create interactive user interfaces and skilled in handling server side development using Node.js and Express.js with MVC architecture. A strong understanding of JavaScript and its ecosystem, experienced in implementing user authentication, authorization, security features and in designing RESTful APIs, handling data persistence using MongoDB. Prioritize clean and maintainable code, follow best practices..</div>
+- 🔭 I can make fully end to end websites with deployment with optimizations
+- 🌱 I’m currently learning Machine Learning 
+- 👯 I’m quick learner and adaptable to new technologies
+- 💬 Open for the discussions on ideas of innovative projects capable of revolutionizing the world
 
 
 ### #Socials:
