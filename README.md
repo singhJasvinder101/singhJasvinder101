@@ -1,6 +1,6 @@
 ### Hi, I am Jasvinder Singh
 
-- 🔭 I can make fully end to end websites with deployment with optimizations
+- 🔭 I can make fully end to end Optimized websites with deployment 
 - 👩🏼‍💻 Let's connect for future opportunities [My Portfolio](https://jasvinder-portfolio.netlify.app/)
 - 🌱 I’m currently learning Machine Learning 
 - 👯 I’m quick learner and adaptable to new technologies
