@@ -1,4 +1,4 @@
-### Hi, I am Jasvinder Singh
+### Hi, I am Jasvinder Singh 👋  
 
 - 🚀 I specialize in crafting fully optimized websites from end to end, including seamless deployment processes.
 - 👩🏼‍💻 Let's connect for future opportunities [My Portfolio](https://jasvinder-portfolio.netlify.app/)
@@ -6,6 +6,7 @@
 - ❓  Ask me about anything related to MERN stack and related technologies
 - 👯 I’m quick learner and adaptable to new technologies
 - 💬 Open for the discussions on ideas of innovative projects capable of revolutionizing the world
+
 
 
 ### #Socials:
