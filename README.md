@@ -65,8 +65,6 @@
 
 <br />
 
-![singhJasvinder101's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=singhJasvinder101&theme=tokyonight&show_icons=true&hide_border=false&layout=compact) 
-![singhJasvinder101's Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhJasvinder101&theme=tokyonight&hide_border=false)  
 
 
 <picture>
