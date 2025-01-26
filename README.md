@@ -1,4 +1,17 @@
-### Hi, I am Jasvinder Singh 👋  
+<code>$ echo "Hello, ${USER} 👋"</code>
+
+Hello and welcome to my profile page.
+
+<details> 
+  <summary><code>$ whoami</code></summary>
+  <br/>
+My name is Jasvinder Singh (nick name Jassi/Karan), I am a self-taught software developer, originally from 🇮🇳
+<br>At work I'm most passionate about software quality 🔍 and automation ⚙️  I also enjoy uncovering and fixing nasty 🐞
+<br>In my spare time I enjoy a variety of different things which are too numerous to list here.
+</details>
+
+<br />
+
 
 - 🚀 I specialize in crafting fully optimized websites from end to end, including seamless deployment processes.
 - 👩🏼‍💻 Let's connect for future opportunities [My Portfolio](https://jasvinder-portfolio.netlify.app/)
@@ -6,12 +19,6 @@
 - ❓  Ask me about anything related to MERN stack and related technologies
 - 👯 I’m quick learner and adaptable to new technologies
 - 💬 Open for the discussions on ideas of innovative projects capable of revolutionizing the world
-
-
-
-### #Socials:
-[<img src="https://github.com/singhJasvinder101/singhJasvinder101/assets/131908922/f0b54ddb-e631-4a94-b4fa-6222f2cc31cb" height="40" width="40" style="border-radius:50;"  />](https://www.instagram.com/_jasvinder_singh201/) [<img src="https://github.com/singhJasvinder101/singhJasvinder101/assets/131908922/ad5e61e2-db03-4cb8-b8cf-e0f4bb67d33e" height="40" width="40" style="border-radius:50;"  />](https://www.linkedin.com/in/jasvinder-singh-466a72256/)
-[<img src="https://github.com/singhJasvinder101/singhJasvinder101/assets/131908922/c905380c-2ff9-4f51-93da-0f931a80b6db" height="40" width="40" style="border-radius:50;"  />](https://twitter.com/51Jasvinde6596/)
 
 
 ### #Tech Stack:
@@ -65,6 +72,18 @@
 
 <br />
 
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://streak-stats.demolab.com/?user=singhJasvinder101&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats" style="flex: 1 1 30%; max-width: 390px; min-width: 250px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=singhJasvinder101&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" style="flex: 1 1 30%; max-width: 390px; min-width: 250px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhJasvinder101&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="flex: 1 1 30%; max-width: 325px; min-width: 250px;" />
+</div>
+
+
+
+### #Socials:
+[<img src="https://github.com/singhJasvinder101/singhJasvinder101/assets/131908922/f0b54ddb-e631-4a94-b4fa-6222f2cc31cb" height="40" width="40" style="border-radius:50;"  />](https://www.instagram.com/_jasvinder_singh201/) [<img src="https://github.com/singhJasvinder101/singhJasvinder101/assets/131908922/ad5e61e2-db03-4cb8-b8cf-e0f4bb67d33e" height="40" width="40" style="border-radius:50;"  />](https://www.linkedin.com/in/jasvinder-singh-466a72256/)
+[<img src="https://github.com/singhJasvinder101/singhJasvinder101/assets/131908922/c905380c-2ff9-4f51-93da-0f931a80b6db" height="40" width="40" style="border-radius:50;"  />](https://twitter.com/51Jasvinde6596/)
 
 
 <picture>
