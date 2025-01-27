@@ -36,7 +36,7 @@ My name is Jasvinder Singh (nick name Jassi/Karan), I am a self-taught software 
   
   <img src="https://github-readme-stats.vercel.app/api?username=singhJasvinder101&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" style="flex: 1 1 30%; max-width: 390px; min-width: 250px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhJasvinder101&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="flex: 1 1 30%; max-width: 325px; min-width: 250px;" />
-  <img src="https://streak-stats.demolab.com/?user=singhJasvinder101&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats" style="flex: 1 1 30%; max-width: 390px; min-width: 250px;" />
+  <img src="https://nirzak-streak-stats.vercel.app?user=singhJasvinder101&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats" style="flex: 1 1 30%; max-width: 390px; min-width: 250px;" />
 </div>
 
 
