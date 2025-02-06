@@ -15,7 +15,7 @@ My name is Jasvinder Singh (nick name Jassi/Karan), I am a self-taught software 
 
 - 🚀 I specialize in crafting fully optimized websites from end to end, including seamless deployment processes.
 - 👩🏼‍💻 Let's connect for future opportunities jasvindersingh3593@gmail.com 
-- 🌱 I’m currently learning AI/ML
+- 🌱 I’m currently learning Golang
 - ❓ Ask me about anything related to MERN stack and related technologies
 - 👯 I’m quick learner and adaptable to new technologies
 - 💬 Open for the discussions on ideas of innovative projects capable of revolutionizing the world
