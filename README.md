@@ -1,6 +1,6 @@
 $ echo "Hello, ${USER} 👋"
 
-# Welcome to My Digital Space! 🚀
+# Welcome to My Digital Space!!
 
 <details> 
   <summary><code>$ whoami</code></summary>
@@ -13,13 +13,13 @@ I’m Jasvinder Singh (you can call me Jassi or Karan), a self-taught software d
 
 <br />
 
-- 🚀 I specialize in crafting fully optimized websites from end to end, including seamless deployment processes.
+- 🚀 I specialize in crafting fully optimized websites/apps from end to end, including seamless deployment processes.
 - 👩🏼‍💻 Let's connect for future opportunities jasvindersingh3593@gmail.com 
 - 🌱 I’m currently learning Golang
 - ❓ Ask me about anything related to MERN stack and related technologies
-- 👯 I’m quick learner and adaptable to new technologies
 - 💬 Open for the discussions on ideas of innovative projects capable of revolutionizing the world
-- 👨‍💻 [My Portfolio](https://jasvinder-portfolio.netlify.app/)
+- 👨‍💻 [My Portfolio](https://jasvindersingh.is-a.dev/)
+- 🐞 I like fixing Bugs....
 
 
 
