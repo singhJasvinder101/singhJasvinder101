@@ -26,10 +26,14 @@ I’m Jasvinder Singh (you can call me Jassi or Karan), a self-taught software d
 # Connect with me
 
 <p align="left">
-<a href="https://medium.com/@singhJasvinder101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Jasvinder's Blog" height="30" width="40" /></a>
+
+
 <!-- <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Jasvinder's Twitter" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/jasvinder-singh-466a72256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jasvinder's Linkedin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23360021/jasvinder-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Jasvinder's Blog" height="30" width="40" /></a>
+<a href="https://medium.com/@singhJasvinder101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Jasvinder's Blog" height="30" width="40" /></a>
 <a href="https://www.instagram.com/__jasvinder_singh201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jasvinder's Instagram" height="30" width="40" /></a>
+
 <!-- <a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Jasvinder's Leetcode" height="30" width="40" /></a> -->
 </p>
 
