@@ -1,26 +1,60 @@
+<img width="1983" height="793" alt="banner1" src="https://github.com/user-attachments/assets/c51a853a-1a7c-40a7-a7e1-7f4de209d29d" />
+
+## 
+
 $ echo "Hello, ${USER} 👋"
-
-# Welcome to My Digital Space!!
-
-<details> 
+<details>
   <summary><code>$ whoami</code></summary>
-  <br/>
-I’m Jasvinder Singh (you can call me Jassi or Karan), a self-taught software developer, originally from 🇮🇳
-<br>At work I'm most passionate about software quality 🔍 and automation ⚙️  I also enjoy uncovering and fixing nasty 🐞
-<br>In my spare time I enjoy a variety of different things which are too numerous to list here.
+
+```bash
+Jasvinder Singh
+
+$ role
+Software Engineer
+
+$ location
+India 🇮🇳
+
+$ interests
+Scalable Backend Systems
+Distributed Architectures
+AI-Powered Developer Tools
+
+$ current_focus
+Golang
+Cloud Technologies
+Event-Driven Systems
+Modern Software Infrastructure
+
+$ building
+Agentic AI Frameworks
+RAG Systems
+LLM Tooling
+Open Source Projects
+
+$ exploring
+System Design
+Cloud-Native Architectures
+
+$ when_not_coding
+Solving DSA Problems
+Contributing to Open Source
+Experimenting with New Technologies
+
+```
 </details>
 
 
 <br />
 
-- 🚀 I specialize in crafting fully optimized websites/apps from end to end, including seamless deployment processes.
-- 👩🏼‍💻 Let's connect for future opportunities jasvindersingh3593@gmail.com 
-- 🌱 I’m currently learning Golang
-- ❓ Ask me about anything related to MERN stack and related technologies
-- 💬 Open for the discussions on ideas of innovative projects capable of revolutionizing the world
-- 👨‍💻 [My Portfolio](https://jasvindersingh.is-a.dev/)
-- 🐞 I like fixing Bugs....
-
+- 🚀 Building scalable backend systems, full-stack applications, and cloud-native solutions
+- 🤖 Currently developing Agentic AI frameworks, RAG pipelines, and LLM-powered developer tools
+- ☁️ AWS Certified Cloud Practitioner
+- ⚛️ Experience in working with React, Node.js, Golang, AWS, and modern software architectures
+- 📦 Focused on Backend Engineering, Distributed Systems, Microservices, and System Design
+- 🌱 Exploring AI Engineering, Agentic Systems, and Cloud-Native Architectures
+- 💬 Open to discussions around Software Engineering, Distributed Systems, Golang, and AI Engineering
+- 🐞 Enjoy debugging complex production issues and performance bottlenecks
 
 
 # Connect with me
@@ -42,12 +76,15 @@ I’m Jasvinder Singh (you can call me Jassi or Karan), a self-taught software d
 <br />
 
 
-# 📈GitHub Stats:
+# GitHub Stats:
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=singhJasvinder101&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" alt="readme stats" style="flex: 1 1 30%; max-width: 390px; min-width: 250px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhJasvinder101&hide=HTML&langs_count=8&layout=compact&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="flex: 1 1 30%; max-width: 325px; min-width: 250px;" />
-  <img src="https://nirzak-streak-stats.vercel.app?user=singhJasvinder101&count_private=true&theme=tokyonight&border_radius=10" alt="streak stats" style="flex: 1 1 30%; max-width: 390px; min-width: 250px;" />
+
+  ![]()<br/>
+![]()
+
+
+  <img src="https://github-readme-stats.shion.dev/api?username=singhJasvinder101&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&rank_icon=github" alt="readme stats" style="flex: 1 1 30%; max-width: 390px; min-width: 250px;" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=singhJasvinder101&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="streak stats" style="flex: 1 1 30%; max-width: 390px; min-width: 250px;" />
 </div>
 
 
@@ -78,7 +115,7 @@ I’m Jasvinder Singh (you can call me Jassi or Karan), a self-taught software d
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" <img width="1983" height="793" alt="banner1" src="https://github.com/user-attachments/assets/630332e7-d205-46c8-a7f7-922b35bb0138" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -113,5 +150,8 @@ I’m Jasvinder Singh (you can call me Jassi or Karan), a self-taught software d
 </picture>
 
 
+
+### ✍️ Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
   
