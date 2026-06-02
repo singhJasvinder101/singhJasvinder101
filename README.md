@@ -115,7 +115,7 @@ Experimenting with New Technologies
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 <img src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" <img width="1983" height="793" alt="banner1" src="https://github.com/user-attachments/assets/630332e7-d205-46c8-a7f7-922b35bb0138" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"  alt="Mongo" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -148,10 +148,5 @@ Experimenting with New Technologies
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/singhJasvinder101/singhJasvinder101/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/singhJasvinder101/singhJasvinder101/output/github-snake.svg" />
 </picture>
-
-
-
-### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
   
