@@ -47,12 +47,10 @@ Experimenting with New Technologies
 
 <br />
 
-- 🚀 Building scalable backend systems, full-stack applications, and cloud-native solutions
-- 🤖 Currently developing Agentic AI frameworks, RAG pipelines, and LLM-powered developer tools
+- 🚀 Building scalable backend systems, full-stack AI applications, and cloud-native solutions
 - ☁️ AWS Certified Cloud Practitioner
 - ⚛️ Experience in working with React, Node.js, Golang, AWS, and modern software architectures
-- 📦 Focused on Backend Engineering, Distributed Systems, Microservices, and System Design
-- 🌱 Exploring AI Engineering, Agentic Systems, and Cloud-Native Architectures
+- 📦 Currently developing Agentic AI frameworks, RAG pipelines, and LLM-powered developer tools_
 - 💬 Open to discussions around Software Engineering, Distributed Systems, Golang, and AI Engineering
 - 🐞 Enjoy debugging complex production issues and performance bottlenecks
 
